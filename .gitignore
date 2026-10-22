@@ -1,4 +1,0 @@
-.env
-db/
-keycloakdb*
-node_modules
